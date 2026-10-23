@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "data": {
+    "created": "2026-01-01T00:00:00.0000000+00:00",
+    "lang": "en",
+    "email_marketing_permission": false,
+    "email_marketing_timestamp": "0",
+    "marketing_scope_consents": [],
+    "email_retargeting_permission": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "data": {
+    "language": "en",
+    "game": "laser",
+    "playerRegion": "",
+    "gameAccountNickname": "",
+    "gameAccountToken": "<account JWT or empty>",
+    "gameHelpLink": "",
+    "reCaptchaKey": "",
+    "environment": "prod",
+    "gameSeasonName": "",
+    "versionSuffix": ""
+  }
+}

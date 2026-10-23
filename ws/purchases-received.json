@@ -1,0 +1,52 @@
+{
+  "notification": {
+    "issuedAt": {
+      "seconds": 1792700000
+    },
+    "notBefore": {
+      "seconds": 1792700000
+    },
+    "purchasesReceived": {
+      "product": {
+        "application": "laser",
+        "imageUrl": "<url>",
+        "backgroundImageUrl": "<url>",
+        "logoImageUrl": "<url>",
+        "priority": 100000,
+        "type": "<product type>",
+        "title": {
+          "en": "GIFT!!!"
+        },
+        "tags": [
+          "STORE_FREE_OFFER_CLAIM"
+        ]
+      },
+      "productQuantity": 1,
+      "token": "<claim JWT>",
+      "templateType": 1,
+      "groupId": "<group id>",
+      "origin": "STORE_FREE_OFFER_CLAIM",
+      "shopItems": [
+        {
+          "id": "item_abc123",
+          "productId": "com.supercell.laser.scid.specialoffertier0.free.item_abc123",
+          "type": "UNKNOWN",
+          "tier": "DEFAULT",
+          "status": {
+            "available": {}
+          },
+          "applications": [
+            "laser",
+            "laser-prod"
+          ],
+          "contents": [
+            {
+              "key": "Gems",
+              "value": 100
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

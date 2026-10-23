@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "data": {
+    "email": "player@example.com",
+    "state": "pending"
+  }
+}

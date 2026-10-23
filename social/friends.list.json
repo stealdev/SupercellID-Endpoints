@@ -1,0 +1,182 @@
+{
+  "ok": true,
+  "data": {
+    "friends": [
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "FRIEND",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      },
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "REQUEST_RECEIVED",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      },
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "REQUEST_SENT",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      }
+    ],
+    "outgoingRequests": [
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "REQUEST_SENT",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      }
+    ],
+    "incomingRequests": [
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "REQUEST_RECEIVED",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      }
+    ],
+    "friendRequests": [
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "REQUEST_RECEIVED",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      },
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "REQUEST_SENT",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      }
+    ],
+    "incomingFriendRequestsCount": 1
+  }
+}

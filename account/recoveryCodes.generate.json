@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "data": {
+    "codes": [
+      "ABCD-EFGH",
+      "JKLM-NPQR",
+      "STUV-WXYZ",
+      "2345-6789",
+      "AB23-CD45",
+      "EF67-GH89",
+      "JK23-LM45",
+      "NP67-QR89",
+      "ST23-UV45",
+      "WX67-YZ89"
+    ],
+    "token": "0123456789abcdef0123456789abcdef"
+  }
+}

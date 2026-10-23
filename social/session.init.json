@@ -1,0 +1,186 @@
+{
+  "ok": true,
+  "data": {
+    "universalLink": "https://link.example.com/?supercell_id&p=1a2b3c4d-0000-0000-0000-00000000aaaa",
+    "name": {
+      "name": "PlayerName",
+      "changeAllowed": 1795292000000
+    },
+    "avatarImage": {
+      "image": "0,moco_support_cat,#1D1D1D,#878787"
+    },
+    "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+    "qrCodeURL": "https://link.example.com/?supercell_id&p=1a2b3c4d-0000-0000-0000-00000000aaaa",
+    "forcedOfflineStatus": false,
+    "blockIncomingFriendRequests": false,
+    "supportTier": 1,
+    "scid": "1a2b3c4d-0000-0000-0000-00000000aaaa",
+    "accountId": "1a2b3c4d-0000-0000-0000-00000000aaaa",
+    "handle": {
+      "id": "PlayerHandle",
+      "isChangeAllowed": true
+    },
+    "availableSystems": [
+      {
+        "system": "laser",
+        "deeplink": "https://link.example.com/"
+      }
+    ],
+    "connectedSystems": [
+      {
+        "system": "laser",
+        "application": "laser-prod",
+        "username": "PlayerName",
+        "progress": [
+          "1500",
+          "0"
+        ],
+        "score": 1500,
+        "seasonPassActive": false,
+        "seasonPassType": "DEFAULT",
+        "seasonPassProgress": 0,
+        "applicationAccountId": "0-12345"
+      }
+    ],
+    "characterClass": "connected_games_multi",
+    "identifier": {
+      "type": "EMAIL",
+      "value": "player@example.com",
+      "scid_id": "1a2b3c4d-0000-0000-0000-00000000aaaa"
+    },
+    "featurePermissions": {},
+    "friends": [
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "FRIEND",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      }
+    ],
+    "friendRequests": [
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "REQUEST_RECEIVED",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      },
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "REQUEST_SENT",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      }
+    ],
+    "outgoingRequests": [
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "gameAccountId": 67890,
+        "playerName": "FriendInGame",
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "applicationAccountId": "0-67890",
+        "relationship": {
+          "status": "REQUEST_SENT",
+          "timestamp": 1792700000000
+        },
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          "laser"
+        ]
+      }
+    ],
+    "incomingFriendRequestsCount": 1,
+    "ctaCampaigns": [],
+    "isQuarantined": false,
+    "sp": {
+      "allowed": false
+    },
+    "items": [
+      {
+        "id": "item_abc123",
+        "type": "UNKNOWN",
+        "tier": "DEFAULT",
+        "origin": "STORE_FREE_OFFER_CLAIM",
+        "accountId": "1a2b3c4d-0000-0000-0000-00000000aaaa",
+        "createdAt": 1792700000000,
+        "status": {
+          "status": "AVAILABLE",
+          "timestamp": 1792700000000,
+          "claimToken": null
+        },
+        "productId": "com.supercell.laser.scid.specialoffertier0.free.item_abc123",
+        "receiptId": "SUPERCELL_STORE_FREE_OFFER_CLAIM:1a2b3c4d-0000-0000-0000-00000000aaaa#com.supercell.laser.scid.specialoffertier0.free.item_abc123#1",
+        "applications": [
+          "laser",
+          "laser-prod"
+        ],
+        "contents": {
+          "Gems": 100
+        },
+        "title": "GIFT!!!"
+      }
+    ]
+  }
+}

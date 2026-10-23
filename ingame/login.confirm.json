@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "data": {
+    "scidToken": "<account JWT>",
+    "bindToken": "<account JWT>",
+    "refreshToken": "<base64, 32 bytes>",
+    "switchAccount": false,
+    "requiresReconnect": false
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "data": {
+    "authentication": {
+      "scope": "<scope from pinAuthentication.start>",
+      "token": "0123456789abcdef0123456789abcdef"
+    }
+  }
+}

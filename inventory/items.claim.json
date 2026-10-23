@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "data": {
+    "item": {
+      "id": "item_abc123",
+      "type": "UNKNOWN",
+      "tier": "DEFAULT",
+      "origin": "STORE_FREE_OFFER_CLAIM",
+      "accountId": "1a2b3c4d-0000-0000-0000-00000000aaaa",
+      "createdAt": 1792700000000,
+      "status": {
+        "status": "CLAIM_IN_PROGRESS",
+        "timestamp": 1792700000000,
+        "claimToken": "<claim JWT>"
+      },
+      "productId": "com.supercell.laser.scid.specialoffertier0.free.item_abc123",
+      "receiptId": "SUPERCELL_STORE_FREE_OFFER_CLAIM:1a2b3c4d-0000-0000-0000-00000000aaaa#com.supercell.laser.scid.specialoffertier0.free.item_abc123#1",
+      "applications": [
+        "laser-prod"
+      ],
+      "contents": {
+        "Gems": 100
+      },
+      "title": null
+    }
+  }
+}

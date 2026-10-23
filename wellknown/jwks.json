@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "use": "sig",
+      "crv": "P-256",
+      "kid": "<kid>",
+      "alg": "ES256",
+      "x": "<base64url X>",
+      "y": "<base64url Y>"
+    }
+  ]
+}

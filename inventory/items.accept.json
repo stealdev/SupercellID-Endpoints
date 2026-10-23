@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "data": {
+    "item": {
+      "id": "item_abc123",
+      "type": "SEASON_PASS",
+      "tier": "DEFAULT",
+      "origin": "STORE_FREE_OFFER_CLAIM",
+      "accountId": "1a2b3c4d-0000-0000-0000-00000000aaaa",
+      "createdAt": 1792700000000,
+      "status": {
+        "status": "AVAILABLE",
+        "timestamp": 1792700000000,
+        "claimToken": null
+      },
+      "productId": "com.supercell.laser.scid.seasonpass.basic",
+      "receiptId": "SUPERCELL_STORE_FREE_OFFER_CLAIM:1a2b3c4d-0000-0000-0000-00000000aaaa#com.supercell.laser.scid.seasonpass.basic#1",
+      "applications": [
+        "laser",
+        "laser-prod"
+      ],
+      "contents": {
+        "BrawlPass": 1
+      },
+      "title": "GIFT!!!"
+    }
+  }
+}

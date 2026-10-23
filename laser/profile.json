@@ -1,0 +1,8 @@
+{
+  "account_id": "profile:12345",
+  "handle": "PlayerName",
+  "image_ref": "<image reference>",
+  "game_account_id": "0-12345",
+  "request_friend_deeplink": "<deeplink>",
+  "allow_update": true
+}

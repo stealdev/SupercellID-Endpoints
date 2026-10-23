@@ -1,0 +1,55 @@
+{
+  "ok": true,
+  "data": {
+    "universalLink": "https://link.example.com/?supercell_id&p=1a2b3c4d-0000-0000-0000-00000000aaaa",
+    "name": {
+      "name": "PlayerName",
+      "changeAllowed": 1795292000000
+    },
+    "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+    "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+    "relationship": {
+      "status": "STRANGER",
+      "timestamp": 1792700000000
+    },
+    "qrCodeURL": "https://link.example.com/?supercell_id&p=1a2b3c4d-0000-0000-0000-00000000aaaa",
+    "forcedOfflineStatus": false,
+    "blockIncomingFriendRequests": false,
+    "supportTier": 1,
+    "scid": "1a2b3c4d-0000-0000-0000-00000000aaaa",
+    "accountId": "1a2b3c4d-0000-0000-0000-00000000aaaa",
+    "handle": {
+      "id": "PlayerHandle",
+      "isChangeAllowed": true
+    },
+    "availableSystems": [
+      {
+        "system": "laser",
+        "deeplink": "https://link.example.com/"
+      }
+    ],
+    "connectedSystems": [
+      {
+        "system": "laser",
+        "application": "laser-prod",
+        "username": "PlayerName",
+        "progress": [
+          "1500",
+          "0"
+        ],
+        "score": 1500,
+        "seasonPassActive": false,
+        "seasonPassType": "DEFAULT",
+        "seasonPassProgress": 0,
+        "applicationAccountId": "0-12345"
+      }
+    ],
+    "characterClass": "connected_games_multi",
+    "identifier": {
+      "type": "EMAIL",
+      "value": "player@example.com",
+      "scid_id": "1a2b3c4d-0000-0000-0000-00000000aaaa"
+    },
+    "featurePermissions": {}
+  }
+}

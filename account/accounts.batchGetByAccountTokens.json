@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "data": {
+    "<account JWT>": {
+      "ok": true,
+      "data": {
+        "scid": "1a2b3c4d-0000-0000-0000-00000000aaaa",
+        "identifier": {
+          "type": "EMAIL",
+          "value": "player@example.com"
+        },
+        "connectedSystem": {
+          "application": "laser-prod",
+          "applicationAccountId": "0-12345",
+          "applicationAccountAlias": "PlayerHandle",
+          "username": "PlayerName",
+          "progress": [
+            "1500",
+            "1500"
+          ],
+          "score": 1500,
+          "seasonPassActive": false
+        },
+        "applications": [
+          {
+            "application": "laser-prod",
+            "account": {
+              "id": "0-12345",
+              "alias": "PlayerHandle",
+              "name": "PlayerName",
+              "progress": [
+                "1500",
+                "1500"
+              ],
+              "score": 1500
+            }
+          }
+        ],
+        "name": "PlayerName",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "handle": "PlayerHandle"
+      }
+    }
+  }
+}

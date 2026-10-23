@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "data": {
+    "profiles": [
+      {
+        "accountId": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "profileImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "handle": "FriendHandle",
+        "name": "FriendName",
+        "playerName": "FriendName",
+        "gameAccountId": 67890,
+        "scid": "5e6f7a8b-0000-0000-0000-00000000bbbb",
+        "applicationAccountId": "0-67890",
+        "avatarImage": "0,moco_support_cat,#1D1D1D,#878787",
+        "availableSystems": [
+          {
+            "system": "laser",
+            "deeplink": "https://link.example.com/"
+          }
+        ],
+        "connectedSystems": [
+          {
+            "system": "laser",
+            "application": "laser-prod",
+            "username": "FriendName",
+            "progress": [
+              "0",
+              "0"
+            ],
+            "score": 0,
+            "seasonPassActive": false,
+            "applicationAccountId": "0-67890"
+          }
+        ],
+        "relationship": {
+          "status": "STRANGER"
+        }
+      }
+    ]
+  }
+}
